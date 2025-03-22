@@ -1,0 +1,2 @@
+scp -i "C:\vm_access\yc-klyuchnikovlescha" docker-compose.production.yml \
+    yc-user@51.250.31.98:/home/yc-user/taski/docker-compose.production.yml 
